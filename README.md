@@ -1,10 +1,10 @@
 # Viola
 Viola Online Task Management App
 
-# Nedir ?
+## Nedir ?
 Projelerinizi, görevlerinizi ve görevlere harcadığınız süreleri takip edebileceğiniz online task management uygulamasıdır. (OnlyOffice, Redbooth, Intervals vb gibi.)
 
-# Neler Yapılabilir ?
+## Neler Yapılabilir ?
 - Şirket yönetimi
 - Proje yönetimi
 - Görev yönetimi
@@ -12,13 +12,13 @@ Projelerinizi, görevlerinizi ve görevlere harcadığınız süreleri takip ede
 - Kullanıcı yönetimi
 - (Burası daha sonra detaylandırılacaktır)
 
-# Özellikleri
+## Özellikleri
 - Çoklu dil desteği (an itibariyle tam ingilizce desteği, kısmi türkçe desteği bulunuyor)
 - Lokalizasyon (Tarih formatının ve saat timezone'unun kullanıcı bazlı değiştirilebilmesi)
 - Yetkilendirme (External, User, Admin)
 - Veritabanı ve kodlaması SaaS uygulama olarak tasarlandı. Fakat an itibariyle sadece tek bir şirket üzerinden çalışıyor. (Veri izolasyonu için her tabloda CompanyId isminde bir alan göreceksiniz)
 
-# Kullanılan Teknolojiler - Third Party Kütüphaneler
+## Kullanılan Teknolojiler - Third Party Kütüphaneler
 Back-end
 - C#
 - Net Framework 4.6.1
@@ -35,7 +35,7 @@ Front-end
 - Eonasdan Bootstrap Datetimepicker 4
 
 
-# İleride Eklenecek Özellikler
+## İleride Eklenecek Özellikler
 - Görevlere yorum ekleyebilme özelliği.
 - Görev üzerindeki değişikliklerin saklanması (history).
 - Görev üzerinde değişiklik olduğunda ilgili kişilere email bildirim gönderilmesi.
